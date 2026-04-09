@@ -1,0 +1,59 @@
+{
+  "name": "Kenneth Jennings",
+  "title": "Information Systems Student @ Ball State University",
+  "location": "Greater Indianapolis",
+  "email": "kennethljennings@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/kennethjennings",
+
+  "summary": "Success-driven first-year student at Ball State University studying Business Information Systems. Miller Leadership Academy Scholar with experience in web development and AI systems through internship work. Passionate about cloud computing, AI database structuring, and digital services.",
+
+  "education": [
+    {
+      "school": "Ball State University - Miller College of Business",
+      "degree": "B.S. in Business Information Systems",
+      "years": "2025 - 2029"
+    },
+    {
+      "school": "North Central High School",
+      "degree": "High School Diploma",
+      "years": "2021 - 2025"
+    }
+  ],
+
+  "experience": [
+    {
+      "company": "Career Growth Now",
+      "role": "Intern",
+      "duration": "Jan 2026 - Present",
+      "details": [
+        "Analyzed UI and provided improvement recommendations",
+        "Connected with Fortune 100 managers to enhance credibility",
+        "Streamlined processes to improve user experience"
+      ]
+    }
+  ],
+
+  "leadership": [
+    "Miller Leadership Academy Scholar",
+    "Dean’s Student Advisory Council",
+    "Student Government Association",
+    "Pi Kappa Alpha Fraternity",
+    "Residence Hall Council",
+    "Esports Team Management"
+  ],
+
+  "skills": [
+    "Data Import/Export",
+    "Research Skills",
+    "Information Graphics",
+    "Web Development",
+    "AI Systems"
+  ],
+
+  "interests": [
+    "Cloud Computing",
+    "AI Databases",
+    "Hardware",
+    "Digital Asset Services"
+  ]
+}
